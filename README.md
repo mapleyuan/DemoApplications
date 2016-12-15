@@ -1,4 +1,4 @@
 # DemoApplications
 first commit
-![image](https://github.com/mapleyuan/RoundImageView/blob/master/app/screenshot.png)
+![image](https://github.com/mapleyuan/DemoApplications/blob/master/readme.gif)
  
